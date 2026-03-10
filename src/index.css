@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+table,
+th,
+td {
+    @apply border border-blue-600 text-blue-600;
+    padding: 0.5rem;
+}
